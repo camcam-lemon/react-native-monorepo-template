@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "Template",
+      "path": "."
+    },
+    {
+      "name": "Template/common-modules",
+      "path": "packages/common-modules"
+    },
+    {
+      "name": "Template/mobile",
+      "path": "packages/mobile"
+    },
+    {
+      "name": "Template/web",
+      "path": "packages/web"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true
+  }
+}

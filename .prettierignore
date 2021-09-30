@@ -1,0 +1,9 @@
+# common ignore folder
+build
+dist
+public
+static
+
+# specific to each package ignore folder
+packages/*/ios
+packages/*/android
